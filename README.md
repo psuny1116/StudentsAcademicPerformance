@@ -1,0 +1,3 @@
+- 데이터분석으로 성적에 영향을 주는 요소 파악하기
+- 캐글 xAPI-Edu-Data 데이터 사용
+- 데이터 출처: https://www.kaggle.com/aljarah/xAPI-Edu-Data
